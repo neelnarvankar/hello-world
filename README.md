@@ -1,3 +1,3 @@
-# hello-world
+# Hello-world
 First repository
 First edit made today, Learning GitHub
